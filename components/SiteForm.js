@@ -62,15 +62,15 @@ const SiteForm = ({jenis, btnClick}) => {
             }
         </div>
         <div style={{width:'100%', padding: '0 2em', display:'flex'}}>
-            <button disabled={disbledBtn} type='submit' className='btn' id='btn' style={{marginTop:'-0.2em', cursor:'pointer', marginRight:4}}>
+            <button disabled={disbledBtn} type='submit' className='btn' id='btn' style={{marginTop:'-0.2em', cursor:'pointer', marginRight:3}}>
                 {jenis == 'norek' ? 'Lanjut' : 'Login'}
             </button>
             {
                 jenis == 'norek' ?
                 <></>
                 :
-                <button type='button' style={{width:80, borderRadius: 9, border:'none', backgroundColor: 'rgb(14 120 202)', color:'white'}}>
-                    <Image src="/fingerprint.png" width={80} height={80} alt="sidikjari"/>
+                <button type='button' style={{width:70, borderRadius: 9, border:'none', backgroundColor: 'rgb(14 120 202)', color:'white'}}>
+                    <Image src="/fingerprint.png" width={70} height={70} alt="sidikjari"/>
                 </button>
             }
         </div>
